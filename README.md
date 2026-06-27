@@ -295,31 +295,7 @@ Candidate Interview
 
 ---
 
-# 📸 Screenshots
 
-## Role Selection
-
-_Add screenshot here_
-
----
-
-## Resume Upload
-
-_Add screenshot here_
-
----
-
-## Interview Screen
-
-_Add screenshot here_
-
----
-
-## Session Summary
-
-_Add screenshot here_
-
----
 
 # Supported Roles
 
