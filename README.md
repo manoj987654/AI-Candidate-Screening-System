@@ -269,7 +269,7 @@ Interview Summary
 
 ---
 
-# 🧠 AI Pipeline
+# AI Pipeline
 
 ```
 Resume
@@ -321,7 +321,7 @@ _Add screenshot here_
 
 ---
 
-# 🎯 Supported Roles
+# Supported Roles
 
 ✔ Machine Learning Engineer
 
@@ -331,19 +331,47 @@ _Add screenshot here_
 
 ---
 
-# 🔮 Future Enhancements
+# 📸 Screenshots
 
-- Voice-Based Interview
-- AI Answer Evaluation
-- Candidate Scoring
-- Recruiter Dashboard
-- PostgreSQL Database
-- Docker Deployment
-- Cloud Deployment
-- Authentication
-- Admin Portal
-- Coding Round Integration
+## Home Page
 
+![Home](screenshots/home.png)
+
+---
+
+## Role Selection
+
+![Roles](screenshots/roles.png)
+
+---
+
+## Resume Upload
+
+![Resume Upload](screenshots/resume_upload.png)
+
+---
+
+## Interview - Question 1
+
+![Question 1](screenshots/question_1.png)
+
+---
+
+## Interview - Question 2
+
+![Question 2](screenshots/question_2.png)
+
+---
+
+## Completion Screen
+
+![Completion](screenshots/completion.png)
+
+---
+
+## Error Handling
+
+![Error](screenshots/error_question_3.png)
 ---
 
 # Author
