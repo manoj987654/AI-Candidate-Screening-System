@@ -376,7 +376,7 @@ _Add screenshot here_
 
 ## 🎥 Demo Video
 
-[Demo](https://drive.google.com/file/d/1cK38AptRZQJd7tYEiL_RE6DQJpcRSYgU/view?usp=sharing)
+▶ **Watch the Demo:** (https://drive.google.com/file/d/1cK38AptRZQJd7tYEiL_RE6DQJpcRSYgU/view?usp=sharing)
 
 ------
 # Author
